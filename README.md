@@ -2,6 +2,8 @@
 
 ### Approximating Multi-Perspective Trace Alignment Using Trace Encodings (Accepted in BPM 2023)
 
+This repository contains the scripts developed for the proposed approximate approach of multi-perspective alignment.
+
 1. 'prepare_bs_encoding.ipynb' 
 
     This script shows the processes (i) to generate non-complying traces by modifying the original traces, (ii) to save ground truth of original traces before modification, and (iii) to encode the prepared experimental datasets.
