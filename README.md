@@ -3,6 +3,7 @@
 ### Approximating Multi-Perspective Trace Alignment Using Trace Encodings (Accepted in BPM 2023)
 
 This repository contains the scripts developed for the proposed approximate approach of multi-perspective alignment.
+We tested the approach using Sepsis and Road Fines event logs, and the results in Table 3~6 can be obtained by implementing below two scripts.
 
 1. 'prepare_bs_encoding.ipynb' 
 
