@@ -1,6 +1,6 @@
 # Descriptions
 
-### Approximating Multi-Perspective Trace Alignment Using Trace Encodings (BPM 2023)
+### Approximating Multi-Perspective Trace Alignment Using Trace Encodings (Accepted in BPM 2023)
 
 1. 'prepare_bs_encoding.ipynb' 
 
