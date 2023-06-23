@@ -1,0 +1,58 @@
+Case ID,Activity,Variant,Variant index,pL:low,pL:high,pW:low,pW:high,sM:low,sM:high
+case 0,getlength1,Variant 1,1,0.50,0.50,,,,
+case 0,measure weight,Variant 1,1,,,0.00,9223372036854775808.00,,
+case 1,getlength2,Variant 4,4,1.00,1.00,,,,
+case 1,measure weight,Variant 4,4,,,0.00,9223372036854775808.00,,
+case 2,getlength3,Variant 7,7,2.00,2.00,,,,
+case 2,measure weight,Variant 7,7,,,0.00,9223372036854775808.00,,
+case 3,getlength1,Variant 2,2,0.50,0.50,,,,
+case 3,measure weight,Variant 2,2,,,0.00,10.00,,
+case 3,determinemode1,Variant 2,2,,,,,-9223372036854775808.00,9223372036854775808.00
+case 4,getlength1,Variant 3,3,0.50,0.50,,,,
+case 4,measure weight,Variant 3,3,,,5.00,10.00,,
+case 4,determinemode3,Variant 3,3,,,,,-9223372036854775808.00,9223372036854775808.00
+case 5,getlength2,Variant 5,5,1.00,1.00,,,,
+case 5,measure weight,Variant 5,5,,,0.00,10.00,,
+case 5,determinemode1,Variant 5,5,,,,,-9223372036854775808.00,9223372036854775808.00
+case 6,getlength2,Variant 6,6,1.00,1.00,,,,
+case 6,measure weight,Variant 6,6,,,5.00,10.00,,
+case 6,determinemode3,Variant 6,6,,,,,-9223372036854775808.00,9223372036854775808.00
+case 7,getlength3,Variant 8,8,2.00,2.00,,,,
+case 7,measure weight,Variant 8,8,,,0.00,10.00,,
+case 7,determinemode2,Variant 8,8,,,,,-9223372036854775808.00,9223372036854775808.00
+case 8,getlength3,Variant 9,9,2.00,2.00,,,,
+case 8,measure weight,Variant 9,9,,,5.00,10.00,,
+case 8,determinemode3,Variant 9,9,,,,,-9223372036854775808.00,9223372036854775808.00
+case 9,getlength1,Variant 2,2,0.50,0.50,,,,
+case 9,measure weight,Variant 2,2,,,0.00,10.00,,
+case 9,determinemode1,Variant 2,2,,,,,0.00,0.00
+case 10,getlength1,Variant 3,3,0.50,0.50,,,,
+case 10,measure weight,Variant 3,3,,,5.00,10.00,,
+case 10,determinemode3,Variant 3,3,,,,,0.00,0.00
+case 11,getlength1,Variant 10,10,0.50,0.50,,,,
+case 11,measure weight,Variant 10,10,,,0.00,5.00,,
+case 11,determinemodenoRow,Variant 10,10,,,,,0.00,0.00
+case 12,getlength1,Variant 1,1,0.50,0.50,,,,
+case 12,measure weight,Variant 1,1,,,10.00,9223372036854775808.00,,
+case 13,getlength2,Variant 5,5,1.00,1.00,,,,
+case 13,measure weight,Variant 5,5,,,0.00,10.00,,
+case 13,determinemode1,Variant 5,5,,,,,0.00,0.00
+case 14,getlength2,Variant 6,6,1.00,1.00,,,,
+case 14,measure weight,Variant 6,6,,,5.00,10.00,,
+case 14,determinemode3,Variant 6,6,,,,,0.00,0.00
+case 15,getlength2,Variant 11,11,1.00,1.00,,,,
+case 15,measure weight,Variant 11,11,,,0.00,5.00,,
+case 15,determinemodenoRow,Variant 11,11,,,,,0.00,0.00
+case 16,getlength2,Variant 4,4,1.00,1.00,,,,
+case 16,measure weight,Variant 4,4,,,10.00,9223372036854775808.00,,
+case 17,getlength3,Variant 8,8,2.00,2.00,,,,
+case 17,measure weight,Variant 8,8,,,0.00,10.00,,
+case 17,determinemode2,Variant 8,8,,,,,0.00,0.00
+case 18,getlength3,Variant 9,9,2.00,2.00,,,,
+case 18,measure weight,Variant 9,9,,,5.00,10.00,,
+case 18,determinemode3,Variant 9,9,,,,,0.00,0.00
+case 19,getlength3,Variant 12,12,2.00,2.00,,,,
+case 19,measure weight,Variant 12,12,,,0.00,5.00,,
+case 19,determinemodenoRow,Variant 12,12,,,,,0.00,0.00
+case 20,getlength3,Variant 7,7,2.00,2.00,,,,
+case 20,measure weight,Variant 7,7,,,10.00,9223372036854775808.00,,

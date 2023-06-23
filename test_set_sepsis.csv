@@ -1,0 +1,794 @@
+Case ID,Activity,Variant,Variant index,pW:low,pW:high,pL:low,pL:high,sM:low,sM:high
+case 0,measure weight,Variant 16,16,685.00,685.00,,,,
+case 0,getlength1,Variant 16,16,,,0.00,0.00,,
+case 0,measure weight,Variant 16,16,685.00,685.00,,,,
+case 1,getlength2,Variant 1,1,,,1.00,1.00,,
+case 1,measure weight,Variant 1,1,388.00,388.00,,,,
+case 2,getlength3,Variant 13,13,,,2.00,2.00,,
+case 2,getlength3,Variant 13,13,,,2.00,2.00,,
+case 2,measure weight,Variant 13,13,971.00,971.00,,,,
+case 3,getlength1,Variant 4,4,,,0.00,0.00,,
+case 3,measure weight,Variant 4,4,209.00,209.00,,,,
+case 4,getlength2,Variant 1,1,,,1.00,1.00,,
+case 4,measure weight,Variant 1,1,579.00,579.00,,,,
+case 5,getlength3,Variant 2,2,,,77.79,77.79,,
+case 5,measure weight,Variant 2,2,461.00,461.00,,,,
+case 6,getlength1,Variant 8,8,,,0.00,0.00,,
+case 6,measure weight,Variant 8,8,5.00,5.00,,,,
+case 6,determinemode1,Variant 8,8,,,,,588.00,588.00
+case 7,getlength1,Variant 31,31,,,0.00,0.00,,
+case 7,getlength1,Variant 31,31,,,0.00,0.00,,
+case 7,measure weight,Variant 31,31,7.00,7.00,,,,
+case 7,determinemode3,Variant 31,31,,,,,990.00,990.00
+case 8,getlength1,Variant 9,9,,,0.00,0.00,,
+case 8,measure weight,Variant 9,9,4.00,4.00,,,,
+case 8,determinemodenoRow,Variant 9,9,,,,,0.00,0.00
+case 9,measure weight,Variant 16,16,103.00,103.00,,,,
+case 9,getlength1,Variant 16,16,,,0.00,0.00,,
+case 9,measure weight,Variant 16,16,103.00,103.00,,,,
+case 10,getlength2,Variant 11,11,,,1.00,1.00,,
+case 10,measure weight,Variant 11,11,3.00,3.00,,,,
+case 10,determinemode1,Variant 11,11,,,,,926.00,926.00
+case 11,measure weight,Variant 32,32,8.00,8.00,,,,
+case 11,getlength2,Variant 32,32,,,1.00,1.00,,
+case 11,measure weight,Variant 32,32,8.00,8.00,,,,
+case 11,determinemode3,Variant 32,32,,,,,376.00,376.00
+case 12,getlength2,Variant 7,7,,,1.00,1.00,,
+case 12,measure weight,Variant 7,7,2.00,2.00,,,,
+case 12,determinemodenoRow,Variant 7,7,,,,,0.00,0.00
+case 13,getlength2,Variant 1,1,,,1.00,1.00,,
+case 13,measure weight,Variant 1,1,715.00,715.00,,,,
+case 14,getlength3,Variant 5,5,,,2.00,2.00,,
+case 14,measure weight,Variant 5,5,9.00,9.00,,,,
+case 14,determinemode2,Variant 5,5,,,,,852.00,852.00
+case 15,getlength3,Variant 12,12,,,2.00,2.00,,
+case 15,measure weight,Variant 12,12,5.00,5.00,,,,
+case 15,determinemode3,Variant 12,12,,,,,765.00,765.00
+case 16,getlength3,Variant 6,6,,,-39.18,-39.18,,
+case 16,measure weight,Variant 6,6,-3.68,-3.68,,,,
+case 16,determinemodenoRow,Variant 6,6,,,,,0.00,0.00
+case 17,getlength3,Variant 2,2,,,2.00,2.00,,
+case 17,measure weight,Variant 2,2,643.00,643.00,,,,
+case 18,getlength1,Variant 8,8,,,0.00,0.00,,
+case 18,measure weight,Variant 8,8,5.00,5.00,,,,
+case 18,determinemode1,Variant 8,8,,,,,0.00,0.00
+case 19,getlength1,Variant 3,3,,,0.00,0.00,,
+case 19,measure weight,Variant 3,3,6.00,6.00,,,,
+case 19,determinemode3,Variant 3,3,,,,,0.00,0.00
+case 20,getlength1,Variant 4,4,,,0.00,0.00,,
+case 20,measure weight,Variant 4,4,677.00,677.00,,,,
+case 21,getlength2,Variant 11,11,,,1.00,1.00,,
+case 21,measure weight,Variant 11,11,4.00,4.00,,,,
+case 21,determinemode1,Variant 11,11,,,,,0.00,0.00
+case 22,getlength2,Variant 10,10,,,1.00,1.00,,
+case 22,measure weight,Variant 10,10,8.00,8.00,,,,
+case 22,determinemode3,Variant 10,10,,,,,0.00,0.00
+case 23,getlength2,Variant 7,7,,,54.64,54.64,,
+case 23,measure weight,Variant 7,7,3.00,3.00,,,,
+case 23,determinemodenoRow,Variant 7,7,,,,,0.00,0.00
+case 24,getlength2,Variant 1,1,,,1.00,1.00,,
+case 24,measure weight,Variant 1,1,128.89,128.89,,,,
+case 25,getlength3,Variant 21,21,,,2.00,2.00,,
+case 25,measure weight,Variant 21,21,6.00,6.00,,,,
+case 25,measure weight,Variant 21,21,6.00,6.00,,,,
+case 25,determinemode2,Variant 21,21,,,,,0.00,0.00
+case 26,getlength3,Variant 12,12,,,2.00,2.00,,
+case 26,measure weight,Variant 12,12,7.00,7.00,,,,
+case 26,determinemode3,Variant 12,12,,,,,12.00,12.00
+case 27,getlength3,Variant 6,6,,,2.00,2.00,,
+case 27,measure weight,Variant 6,6,5.00,5.00,,,,
+case 27,determinemodenoRow,Variant 6,6,,,,,0.00,0.00
+case 28,getlength3,Variant 2,2,,,2.00,2.00,,
+case 28,measure weight,Variant 2,2,525.00,525.00,,,,
+case 29,getlength1,Variant 8,8,,,0.00,0.00,,
+case 29,measure weight,Variant 8,8,7.00,7.00,,,,
+case 29,determinemode1,Variant 8,8,,,,,0.00,0.00
+case 30,determinemode3,Variant 33,33,,,,,0.00,0.00
+case 30,getlength1,Variant 33,33,,,0.00,0.00,,
+case 30,measure weight,Variant 33,33,8.00,8.00,,,,
+case 30,determinemode3,Variant 33,33,,,,,0.00,0.00
+case 31,getlength1,Variant 9,9,,,36.26,36.26,,
+case 31,measure weight,Variant 9,9,5.00,5.00,,,,
+case 31,determinemodenoRow,Variant 9,9,,,,,0.00,0.00
+case 32,getlength1,Variant 4,4,,,0.00,0.00,,
+case 32,measure weight,Variant 4,4,483.00,483.00,,,,
+case 33,getlength2,Variant 25,25,,,1.00,1.00,,
+case 33,measure weight,Variant 25,25,8.00,8.00,,,,
+case 33,determinemode3,Variant 25,25,,,,,0.00,0.00
+case 33,measure weight,Variant 25,25,8.00,8.00,,,,
+case 34,getlength2,Variant 7,7,,,1.00,1.00,,
+case 34,measure weight,Variant 7,7,5.00,5.00,,,,
+case 34,determinemodenoRow,Variant 7,7,,,,,0.00,0.00
+case 35,getlength2,Variant 1,1,,,1.00,1.00,,
+case 35,measure weight,Variant 1,1,83.00,83.00,,,,
+case 36,getlength3,Variant 5,5,,,2.00,2.00,,
+case 36,measure weight,Variant 5,5,3.00,3.00,,,,
+case 36,determinemode2,Variant 5,5,,,,,0.00,0.00
+case 37,getlength3,Variant 12,12,,,2.00,2.00,,
+case 37,measure weight,Variant 12,12,8.00,8.00,,,,
+case 37,determinemode3,Variant 12,12,,,,,0.00,0.00
+case 38,getlength3,Variant 6,6,,,2.00,2.00,,
+case 38,measure weight,Variant 6,6,3.00,3.00,,,,
+case 38,determinemodenoRow,Variant 6,6,,,,,0.00,0.00
+case 39,getlength3,Variant 2,2,,,2.00,2.00,,
+case 39,measure weight,Variant 2,2,571.05,571.05,,,,
+case 40,getlength1,Variant 8,8,,,0.07,0.07,,
+case 40,measure weight,Variant 8,8,59.00,59.00,,,,
+case 40,determinemode1,Variant 8,8,,,,,0.00,0.00
+case 41,getlength1,Variant 34,34,,,0.00,0.00,,
+case 41,determinemode3,Variant 34,34,,,,,0.00,0.00
+case 41,measure weight,Variant 34,34,10.00,10.00,,,,
+case 41,determinemode3,Variant 34,34,,,,,0.00,0.00
+case 42,getlength1,Variant 9,9,,,0.00,0.00,,
+case 42,measure weight,Variant 9,9,-47.30,-47.30,,,,
+case 42,determinemodenoRow,Variant 9,9,,,,,0.00,0.00
+case 43,getlength1,Variant 4,4,,,-60.00,-60.00,,
+case 43,measure weight,Variant 4,4,614.00,614.00,,,,
+case 44,getlength2,Variant 11,11,,,-1.70,-1.70,,
+case 44,measure weight,Variant 11,11,4.00,4.00,,,,
+case 44,determinemode1,Variant 11,11,,,,,0.00,0.00
+case 45,getlength2,Variant 18,18,,,1.00,1.00,,
+case 45,getlength2,Variant 18,18,,,1.00,1.00,,
+case 45,measure weight,Variant 18,18,7.00,7.00,,,,
+case 45,determinemode3,Variant 18,18,,,,,0.00,0.00
+case 46,getlength2,Variant 1,1,,,1.00,1.00,,
+case 46,measure weight,Variant 1,1,176.00,176.00,,,,
+case 47,getlength3,Variant 5,5,,,2.00,2.00,,
+case 47,measure weight,Variant 5,5,10.00,10.00,,,,
+case 47,determinemode2,Variant 5,5,,,,,-27.00,-27.00
+case 48,getlength3,Variant 19,19,,,2.00,2.00,,
+case 48,getlength3,Variant 19,19,,,2.00,2.00,,
+case 48,measure weight,Variant 19,19,9.00,9.00,,,,
+case 48,determinemode3,Variant 19,19,,,,,0.00,0.00
+case 49,getlength3,Variant 2,2,,,-56.49,-56.49,,
+case 49,measure weight,Variant 2,2,317.00,317.00,,,,
+case 50,getlength1,Variant 4,4,,,0.00,0.00,,
+case 50,measure weight,Variant 4,4,685.00,685.00,,,,
+case 51,getlength3,Variant 13,13,,,44.72,44.72,,
+case 51,getlength3,Variant 13,13,,,44.72,44.72,,
+case 51,measure weight,Variant 13,13,971.00,971.00,,,,
+case 52,getlength1,Variant 22,22,,,0.00,0.00,,
+case 52,measure weight,Variant 22,22,209.00,209.00,,,,
+case 52,measure weight,Variant 22,22,209.00,209.00,,,,
+case 53,getlength3,Variant 2,2,,,2.00,2.00,,
+case 53,measure weight,Variant 2,2,461.00,461.00,,,,
+case 54,getlength1,Variant 3,3,,,0.00,0.00,,
+case 54,measure weight,Variant 3,3,7.00,7.00,,,,
+case 54,determinemode3,Variant 3,3,,,,,927.00,927.00
+case 55,getlength1,Variant 9,9,,,41.37,41.37,,
+case 55,measure weight,Variant 9,9,4.00,4.00,,,,
+case 55,determinemodenoRow,Variant 9,9,,,,,0.00,0.00
+case 56,getlength1,Variant 4,4,,,0.00,0.00,,
+case 56,measure weight,Variant 4,4,103.00,103.00,,,,
+case 57,getlength2,Variant 10,10,,,66.36,66.36,,
+case 57,measure weight,Variant 10,10,8.00,8.00,,,,
+case 57,determinemode3,Variant 10,10,,,,,376.00,376.00
+case 58,getlength2,Variant 7,7,,,-26.96,-26.96,,
+case 58,measure weight,Variant 7,7,2.00,2.00,,,,
+case 58,determinemodenoRow,Variant 7,7,,,,,0.00,0.00
+case 59,getlength3,Variant 5,5,,,2.00,2.00,,
+case 59,measure weight,Variant 5,5,9.00,9.00,,,,
+case 59,determinemode2,Variant 5,5,,,,,819.00,819.00
+case 60,getlength3,Variant 6,6,,,2.00,2.00,,
+case 60,measure weight,Variant 6,6,2.00,2.00,,,,
+case 60,determinemodenoRow,Variant 6,6,,,,,0.00,0.00
+case 61,getlength3,Variant 15,15,,,2.00,2.00,,
+case 61,measure weight,Variant 15,15,643.00,643.00,,,,
+case 61,measure weight,Variant 15,15,643.00,643.00,,,,
+case 62,getlength1,Variant 35,35,,,0.00,0.00,,
+case 62,measure weight,Variant 35,35,4.00,4.00,,,,
+case 62,measure weight,Variant 35,35,4.00,4.00,,,,
+case 62,determinemodenoRow,Variant 35,35,,,,,0.00,0.00
+case 63,getlength2,Variant 18,18,,,1.00,1.00,,
+case 63,getlength2,Variant 18,18,,,1.00,1.00,,
+case 63,measure weight,Variant 18,18,8.00,8.00,,,,
+case 63,determinemode3,Variant 18,18,,,,,0.00,0.00
+case 64,getlength2,Variant 7,7,,,1.00,1.00,,
+case 64,measure weight,Variant 7,7,3.00,3.00,,,,
+case 64,determinemodenoRow,Variant 7,7,,,,,0.00,0.00
+case 65,getlength2,Variant 1,1,,,1.00,1.00,,
+case 65,measure weight,Variant 1,1,247.90,247.90,,,,
+case 66,getlength3,Variant 5,5,,,2.00,2.00,,
+case 66,measure weight,Variant 5,5,6.00,6.00,,,,
+case 66,determinemode2,Variant 5,5,,,,,0.00,0.00
+case 67,getlength3,Variant 12,12,,,2.00,2.00,,
+case 67,measure weight,Variant 12,12,7.00,7.00,,,,
+case 67,determinemode3,Variant 12,12,,,,,0.00,0.00
+case 68,getlength3,Variant 2,2,,,-60.46,-60.46,,
+case 68,measure weight,Variant 2,2,525.00,525.00,,,,
+case 69,getlength1,Variant 3,3,,,0.00,0.00,,
+case 69,measure weight,Variant 3,3,8.00,8.00,,,,
+case 69,determinemode3,Variant 3,3,,,,,0.00,0.00
+case 70,getlength1,Variant 9,9,,,0.00,0.00,,
+case 70,measure weight,Variant 9,9,5.00,5.00,,,,
+case 70,determinemodenoRow,Variant 9,9,,,,,0.00,0.00
+case 71,measure weight,Variant 36,36,83.00,83.00,,,,
+case 71,getlength2,Variant 36,36,,,1.00,1.00,,
+case 71,measure weight,Variant 36,36,83.00,83.00,,,,
+case 72,getlength3,Variant 37,37,,,2.00,2.00,,
+case 72,determinemode3,Variant 37,37,,,,,0.00,0.00
+case 72,measure weight,Variant 37,37,8.00,8.00,,,,
+case 72,determinemode3,Variant 37,37,,,,,0.00,0.00
+case 73,measure weight,Variant 38,38,3.00,3.00,,,,
+case 73,getlength3,Variant 38,38,,,2.00,2.00,,
+case 73,measure weight,Variant 38,38,3.00,3.00,,,,
+case 73,determinemodenoRow,Variant 38,38,,,,,0.00,0.00
+case 74,getlength3,Variant 2,2,,,2.00,2.00,,
+case 74,measure weight,Variant 2,2,591.00,591.00,,,,
+case 75,getlength1,Variant 8,8,,,0.00,0.00,,
+case 75,measure weight,Variant 8,8,6.00,6.00,,,,
+case 75,determinemode1,Variant 8,8,,,,,-39.00,-39.00
+case 76,getlength1,Variant 3,3,,,0.00,0.00,,
+case 76,measure weight,Variant 3,3,10.00,10.00,,,,
+case 76,determinemode3,Variant 3,3,,,,,0.00,0.00
+case 77,getlength1,Variant 9,9,,,0.00,0.00,,
+case 77,measure weight,Variant 9,9,3.00,3.00,,,,
+case 77,determinemodenoRow,Variant 9,9,,,,,0.00,0.00
+case 78,getlength1,Variant 4,4,,,0.00,0.00,,
+case 78,measure weight,Variant 4,4,595.34,595.34,,,,
+case 79,getlength2,Variant 10,10,,,101.01,101.01,,
+case 79,measure weight,Variant 10,10,7.00,7.00,,,,
+case 79,determinemode3,Variant 10,10,,,,,0.00,0.00
+case 80,getlength2,Variant 7,7,,,61.42,61.42,,
+case 80,measure weight,Variant 7,7,5.00,5.00,,,,
+case 80,determinemodenoRow,Variant 7,7,,,,,0.00,0.00
+case 81,getlength3,Variant 5,5,,,79.14,79.14,,
+case 81,measure weight,Variant 5,5,10.00,10.00,,,,
+case 81,determinemode2,Variant 5,5,,,,,0.00,0.00
+case 82,getlength3,Variant 12,12,,,2.00,2.00,,
+case 82,measure weight,Variant 12,12,9.00,9.00,,,,
+case 82,determinemode3,Variant 12,12,,,,,47.00,47.00
+case 83,getlength3,Variant 13,13,,,2.00,2.00,,
+case 83,getlength3,Variant 13,13,,,2.00,2.00,,
+case 83,measure weight,Variant 13,13,317.00,317.00,,,,
+case 84,getlength2,Variant 1,1,,,1.00,1.00,,
+case 84,measure weight,Variant 1,1,485.30,485.30,,,,
+case 85,getlength3,Variant 2,2,,,2.00,2.00,,
+case 85,measure weight,Variant 2,2,971.00,971.00,,,,
+case 86,getlength3,Variant 13,13,,,2.00,2.00,,
+case 86,getlength3,Variant 13,13,,,2.00,2.00,,
+case 86,measure weight,Variant 13,13,461.00,461.00,,,,
+case 87,getlength1,Variant 8,8,,,0.00,0.00,,
+case 87,measure weight,Variant 8,8,78.14,78.14,,,,
+case 87,determinemode1,Variant 8,8,,,,,594.00,594.00
+case 88,getlength1,Variant 3,3,,,0.00,0.00,,
+case 88,measure weight,Variant 3,3,71.76,71.76,,,,
+case 88,determinemode3,Variant 3,3,,,,,927.00,927.00
+case 89,getlength1,Variant 4,4,,,97.01,97.01,,
+case 89,measure weight,Variant 4,4,103.00,103.00,,,,
+case 90,getlength2,Variant 10,10,,,1.00,1.00,,
+case 90,measure weight,Variant 10,10,8.00,8.00,,,,
+case 90,determinemode3,Variant 10,10,,,,,376.00,376.00
+case 91,getlength2,Variant 7,7,,,1.00,1.00,,
+case 91,measure weight,Variant 7,7,2.00,2.00,,,,
+case 91,determinemodenoRow,Variant 7,7,,,,,-51.00,-51.00
+case 92,getlength1,Variant 3,3,,,-31.03,-31.03,,
+case 92,measure weight,Variant 3,3,6.00,6.00,,,,
+case 92,determinemode3,Variant 3,3,,,,,-96.00,-96.00
+case 93,getlength1,Variant 23,23,,,0.00,0.00,,
+case 93,getlength1,Variant 23,23,,,0.00,0.00,,
+case 93,measure weight,Variant 23,23,677.00,677.00,,,,
+case 94,getlength2,Variant 11,11,,,34.18,34.18,,
+case 94,measure weight,Variant 11,11,4.00,4.00,,,,
+case 94,determinemode1,Variant 11,11,,,,,0.00,0.00
+case 95,getlength2,Variant 39,39,,,1.00,1.00,,
+case 95,getlength2,Variant 39,39,,,1.00,1.00,,
+case 95,measure weight,Variant 39,39,175.00,175.00,,,,
+case 96,getlength3,Variant 15,15,,,2.00,2.00,,
+case 96,measure weight,Variant 15,15,525.00,525.00,,,,
+case 96,measure weight,Variant 15,15,525.00,525.00,,,,
+case 97,getlength2,Variant 14,14,,,1.00,1.00,,
+case 97,measure weight,Variant 14,14,83.00,83.00,,,,
+case 97,getlength2,Variant 14,14,,,1.00,1.00,,
+case 98,getlength1,Variant 8,8,,,0.00,0.00,,
+case 98,measure weight,Variant 8,8,6.00,6.00,,,,
+case 98,determinemode1,Variant 8,8,,,,,85.00,85.00
+case 99,getlength1,Variant 22,22,,,0.00,0.00,,
+case 99,measure weight,Variant 22,22,614.00,614.00,,,,
+case 99,measure weight,Variant 22,22,614.00,614.00,,,,
+case 100,getlength2,Variant 10,10,,,1.00,1.00,,
+case 100,measure weight,Variant 10,10,7.00,7.00,,,,
+case 100,determinemode3,Variant 10,10,,,,,0.00,0.00
+case 101,getlength2,Variant 1,1,,,12.02,12.02,,
+case 101,measure weight,Variant 1,1,176.00,176.00,,,,
+case 102,getlength3,Variant 5,5,,,2.00,2.00,,
+case 102,measure weight,Variant 5,5,10.00,10.00,,,,
+case 102,determinemode2,Variant 5,5,,,,,0.00,0.00
+case 103,getlength3,Variant 12,12,,,2.00,2.00,,
+case 103,measure weight,Variant 12,12,9.00,9.00,,,,
+case 103,determinemode3,Variant 12,12,,,,,0.00,0.00
+case 104,getlength3,Variant 2,2,,,2.00,2.00,,
+case 104,measure weight,Variant 2,2,317.00,317.00,,,,
+case 105,getlength1,Variant 4,4,,,-66.82,-66.82,,
+case 105,measure weight,Variant 4,4,685.00,685.00,,,,
+case 106,getlength2,Variant 1,1,,,1.00,1.00,,
+case 106,measure weight,Variant 1,1,406.57,406.57,,,,
+case 107,getlength2,Variant 40,40,,,1.00,1.00,,
+case 107,measure weight,Variant 40,40,579.00,579.00,,,,
+case 107,measure weight,Variant 40,40,579.00,579.00,,,,
+case 108,getlength1,Variant 31,31,,,0.00,0.00,,
+case 108,getlength1,Variant 31,31,,,0.00,0.00,,
+case 108,measure weight,Variant 31,31,7.00,7.00,,,,
+case 108,determinemode3,Variant 31,31,,,,,927.00,927.00
+case 109,getlength1,Variant 4,4,,,-36.99,-36.99,,
+case 109,measure weight,Variant 4,4,103.00,103.00,,,,
+case 110,getlength2,Variant 41,41,,,1.00,1.00,,
+case 110,getlength2,Variant 41,41,,,1.00,1.00,,
+case 110,measure weight,Variant 41,41,3.00,3.00,,,,
+case 110,determinemode1,Variant 41,41,,,,,926.00,926.00
+case 111,getlength2,Variant 42,42,,,1.00,1.00,,
+case 111,measure weight,Variant 42,42,2.00,2.00,,,,
+case 111,measure weight,Variant 42,42,2.00,2.00,,,,
+case 111,determinemodenoRow,Variant 42,42,,,,,0.00,0.00
+case 112,getlength3,Variant 6,6,,,94.12,94.12,,
+case 112,measure weight,Variant 6,6,2.00,2.00,,,,
+case 112,determinemodenoRow,Variant 6,6,,,,,0.00,0.00
+case 113,getlength1,Variant 43,43,,,0.00,0.00,,
+case 113,measure weight,Variant 43,43,-61.40,-61.40,,,,
+case 113,measure weight,Variant 43,43,-61.40,-61.40,,,,
+case 113,determinemode1,Variant 43,43,,,,,0.00,0.00
+case 114,getlength1,Variant 3,3,,,35.97,35.97,,
+case 114,measure weight,Variant 3,3,6.00,6.00,,,,
+case 114,determinemode3,Variant 3,3,,,,,0.00,0.00
+case 115,measure weight,Variant 44,44,4.00,4.00,,,,
+case 115,getlength2,Variant 44,44,,,1.00,1.00,,
+case 115,measure weight,Variant 44,44,4.00,4.00,,,,
+case 115,determinemode1,Variant 44,44,,,,,0.00,0.00
+case 116,getlength2,Variant 7,7,,,-74.04,-74.04,,
+case 116,measure weight,Variant 7,7,3.00,3.00,,,,
+case 116,determinemodenoRow,Variant 7,7,,,,,0.00,0.00
+case 117,getlength2,Variant 1,1,,,1.00,1.00,,
+case 117,measure weight,Variant 1,1,175.00,175.00,,,,
+case 118,getlength1,Variant 3,3,,,87.91,87.91,,
+case 118,measure weight,Variant 3,3,8.00,8.00,,,,
+case 118,determinemode3,Variant 3,3,,,,,0.00,0.00
+case 119,getlength1,Variant 45,45,,,0.00,0.00,,
+case 119,getlength1,Variant 45,45,,,0.00,0.00,,
+case 119,measure weight,Variant 45,45,5.00,5.00,,,,
+case 119,determinemodenoRow,Variant 45,45,,,,,0.00,0.00
+case 120,getlength2,Variant 26,26,,,1.00,1.00,,
+case 120,measure weight,Variant 26,26,4.00,4.00,,,,
+case 120,getlength2,Variant 26,26,,,1.00,1.00,,
+case 120,determinemode1,Variant 26,26,,,,,0.00,0.00
+case 121,getlength2,Variant 10,10,,,-40.25,-40.25,,
+case 121,measure weight,Variant 10,10,8.00,8.00,,,,
+case 121,determinemode3,Variant 10,10,,,,,0.00,0.00
+case 122,getlength3,Variant 20,20,,,2.00,2.00,,
+case 122,measure weight,Variant 20,20,3.00,3.00,,,,
+case 122,determinemodenoRow,Variant 20,20,,,,,-50.00,-50.00
+case 122,determinemodenoRow,Variant 20,20,,,,,-50.00,-50.00
+case 123,getlength1,Variant 8,8,,,24.96,24.96,,
+case 123,measure weight,Variant 8,8,41.22,41.22,,,,
+case 123,determinemode1,Variant 8,8,,,,,0.00,0.00
+case 124,getlength1,Variant 9,9,,,0.00,0.00,,
+case 124,measure weight,Variant 9,9,3.00,3.00,,,,
+case 124,determinemodenoRow,Variant 9,9,,,,,79.00,79.00
+case 125,getlength1,Variant 4,4,,,0.00,0.00,,
+case 125,measure weight,Variant 4,4,536.47,536.47,,,,
+case 126,getlength2,Variant 11,11,,,1.00,1.00,,
+case 126,measure weight,Variant 11,11,4.00,4.00,,,,
+case 126,determinemode1,Variant 11,11,,,,,-5.00,-5.00
+case 127,getlength2,Variant 1,1,,,1.00,1.00,,
+case 127,measure weight,Variant 1,1,82.03,82.03,,,,
+case 128,getlength3,Variant 5,5,,,60.21,60.21,,
+case 128,measure weight,Variant 5,5,10.00,10.00,,,,
+case 128,determinemode2,Variant 5,5,,,,,0.00,0.00
+case 129,getlength3,Variant 46,46,,,2.00,2.00,,
+case 129,measure weight,Variant 46,46,9.00,9.00,,,,
+case 129,measure weight,Variant 46,46,9.00,9.00,,,,
+case 129,determinemode3,Variant 46,46,,,,,0.00,0.00
+case 130,getlength2,Variant 1,1,,,1.00,1.00,,
+case 130,measure weight,Variant 1,1,599.50,599.50,,,,
+case 131,getlength1,Variant 47,47,,,0.00,0.00,,
+case 131,measure weight,Variant 47,47,5.00,5.00,,,,
+case 131,determinemode1,Variant 47,47,,,,,588.00,588.00
+case 131,determinemode1,Variant 47,47,,,,,588.00,588.00
+case 132,getlength1,Variant 3,3,,,0.00,0.00,,
+case 132,measure weight,Variant 3,3,-38.13,-38.13,,,,
+case 132,determinemode3,Variant 3,3,,,,,927.00,927.00
+case 133,getlength2,Variant 25,25,,,1.00,1.00,,
+case 133,measure weight,Variant 25,25,8.00,8.00,,,,
+case 133,determinemode3,Variant 25,25,,,,,376.00,376.00
+case 133,measure weight,Variant 25,25,8.00,8.00,,,,
+case 134,getlength2,Variant 48,48,,,1.00,1.00,,
+case 134,getlength2,Variant 48,48,,,1.00,1.00,,
+case 134,measure weight,Variant 48,48,2.00,2.00,,,,
+case 134,determinemodenoRow,Variant 48,48,,,,,0.00,0.00
+case 135,getlength2,Variant 14,14,,,1.00,1.00,,
+case 135,measure weight,Variant 14,14,715.00,715.00,,,,
+case 135,getlength2,Variant 14,14,,,1.00,1.00,,
+case 136,getlength3,Variant 2,2,,,-23.96,-23.96,,
+case 136,measure weight,Variant 2,2,643.00,643.00,,,,
+case 137,getlength1,Variant 3,3,,,77.90,77.90,,
+case 137,measure weight,Variant 3,3,-39.29,-39.29,,,,
+case 137,determinemode3,Variant 3,3,,,,,0.00,0.00
+case 138,getlength2,Variant 11,11,,,-60.10,-60.10,,
+case 138,measure weight,Variant 11,11,4.00,4.00,,,,
+case 138,determinemode1,Variant 11,11,,,,,0.00,0.00
+case 139,getlength2,Variant 17,17,,,-67.45,-67.45,,
+case 139,measure weight,Variant 17,17,8.00,8.00,,,,
+case 139,determinemode3,Variant 17,17,,,,,0.00,0.00
+case 139,getlength2,Variant 17,17,,,-67.45,-67.45,,
+case 140,getlength2,Variant 49,49,,,1.00,1.00,,
+case 140,measure weight,Variant 49,49,-54.59,-54.59,,,,
+case 140,determinemodenoRow,Variant 49,49,,,,,0.00,0.00
+case 140,measure weight,Variant 49,49,-54.59,-54.59,,,,
+case 141,getlength2,Variant 1,1,,,-19.39,-19.39,,
+case 141,measure weight,Variant 1,1,175.00,175.00,,,,
+case 142,getlength3,Variant 5,5,,,2.00,2.00,,
+case 142,measure weight,Variant 5,5,6.00,6.00,,,,
+case 142,determinemode2,Variant 5,5,,,,,-57.00,-57.00
+case 143,getlength3,Variant 19,19,,,2.00,2.00,,
+case 143,getlength3,Variant 19,19,,,2.00,2.00,,
+case 143,measure weight,Variant 19,19,7.00,7.00,,,,
+case 143,determinemode3,Variant 19,19,,,,,0.00,0.00
+case 144,getlength3,Variant 6,6,,,2.00,2.00,,
+case 144,measure weight,Variant 6,6,-91.86,-91.86,,,,
+case 144,determinemodenoRow,Variant 6,6,,,,,0.00,0.00
+case 145,getlength1,Variant 3,3,,,-97.87,-97.87,,
+case 145,measure weight,Variant 3,3,-88.65,-88.65,,,,
+case 145,determinemode3,Variant 3,3,,,,,0.00,0.00
+case 146,getlength1,Variant 23,23,,,0.00,0.00,,
+case 146,getlength1,Variant 23,23,,,0.00,0.00,,
+case 146,measure weight,Variant 23,23,483.00,483.00,,,,
+case 147,getlength2,Variant 50,50,,,1.00,1.00,,
+case 147,determinemode1,Variant 50,50,,,,,0.00,0.00
+case 147,measure weight,Variant 50,50,4.00,4.00,,,,
+case 147,determinemode1,Variant 50,50,,,,,0.00,0.00
+case 148,getlength2,Variant 7,7,,,1.00,1.00,,
+case 148,measure weight,Variant 7,7,-21.10,-21.10,,,,
+case 148,determinemodenoRow,Variant 7,7,,,,,0.00,0.00
+case 149,getlength3,Variant 5,5,,,-23.75,-23.75,,
+case 149,measure weight,Variant 5,5,3.00,3.00,,,,
+case 149,determinemode2,Variant 5,5,,,,,0.00,0.00
+case 150,getlength3,Variant 29,29,,,2.00,2.00,,
+case 150,measure weight,Variant 29,29,3.00,3.00,,,,
+case 150,measure weight,Variant 29,29,3.00,3.00,,,,
+case 150,determinemodenoRow,Variant 29,29,,,,,9.00,9.00
+case 151,getlength1,Variant 8,8,,,0.00,0.00,,
+case 151,measure weight,Variant 8,8,6.00,6.00,,,,
+case 151,determinemode1,Variant 8,8,,,,,0.00,0.00
+case 152,getlength1,Variant 3,3,,,0.00,0.00,,
+case 152,measure weight,Variant 3,3,-40.63,-40.63,,,,
+case 152,determinemode3,Variant 3,3,,,,,0.00,0.00
+case 153,getlength1,Variant 51,51,,,-82.77,-82.77,,
+case 153,measure weight,Variant 51,51,3.00,3.00,,,,
+case 153,determinemodenoRow,Variant 51,51,,,,,36.00,36.00
+case 153,determinemodenoRow,Variant 51,51,,,,,36.00,36.00
+case 154,getlength1,Variant 4,4,,,0.00,0.00,,
+case 154,measure weight,Variant 4,4,614.00,614.00,,,,
+case 155,determinemodenoRow,Variant 52,52,,,,,62.00,62.00
+case 155,getlength2,Variant 52,52,,,1.00,1.00,,
+case 155,measure weight,Variant 52,52,5.00,5.00,,,,
+case 155,determinemodenoRow,Variant 52,52,,,,,62.00,62.00
+case 156,getlength3,Variant 12,12,,,75.84,75.84,,
+case 156,measure weight,Variant 12,12,-1.58,-1.58,,,,
+case 156,determinemode3,Variant 12,12,,,,,0.00,0.00
+case 157,getlength3,Variant 20,20,,,2.00,2.00,,
+case 157,measure weight,Variant 20,20,4.70,4.70,,,,
+case 157,determinemodenoRow,Variant 20,20,,,,,66.00,66.00
+case 157,determinemodenoRow,Variant 20,20,,,,,66.00,66.00
+case 158,getlength3,Variant 2,2,,,2.00,2.00,,
+case 158,measure weight,Variant 2,2,260.91,260.91,,,,
+case 159,getlength1,Variant 23,23,,,0.00,0.00,,
+case 159,getlength1,Variant 23,23,,,0.00,0.00,,
+case 159,measure weight,Variant 23,23,685.00,685.00,,,,
+case 160,getlength1,Variant 8,8,,,0.00,0.00,,
+case 160,measure weight,Variant 8,8,-11.90,-11.90,,,,
+case 160,determinemode1,Variant 8,8,,,,,588.00,588.00
+case 161,getlength2,Variant 18,18,,,1.00,1.00,,
+case 161,getlength2,Variant 18,18,,,1.00,1.00,,
+case 161,measure weight,Variant 18,18,8.00,8.00,,,,
+case 161,determinemode3,Variant 18,18,,,,,376.00,376.00
+case 162,getlength2,Variant 28,28,,,1.00,1.00,,
+case 162,determinemodenoRow,Variant 28,28,,,,,0.00,0.00
+case 162,measure weight,Variant 28,28,2.00,2.00,,,,
+case 162,determinemodenoRow,Variant 28,28,,,,,0.00,0.00
+case 163,getlength3,Variant 29,29,,,2.00,2.00,,
+case 163,measure weight,Variant 29,29,-1.97,-1.97,,,,
+case 163,measure weight,Variant 29,29,-1.97,-1.97,,,,
+case 163,determinemodenoRow,Variant 29,29,,,,,0.00,0.00
+case 164,getlength2,Variant 26,26,,,97.94,97.94,,
+case 164,measure weight,Variant 26,26,-24.24,-24.24,,,,
+case 164,getlength2,Variant 26,26,,,97.94,97.94,,
+case 164,determinemode1,Variant 26,26,,,,,0.00,0.00
+case 165,getlength2,Variant 27,27,,,1.00,1.00,,
+case 165,measure weight,Variant 27,27,8.00,8.00,,,,
+case 165,measure weight,Variant 27,27,8.00,8.00,,,,
+case 165,determinemode3,Variant 27,27,,,,,0.00,0.00
+case 166,getlength2,Variant 1,1,,,85.22,85.22,,
+case 166,measure weight,Variant 1,1,175.00,175.00,,,,
+case 167,getlength3,Variant 6,6,,,2.00,2.00,,
+case 167,measure weight,Variant 6,6,5.00,5.00,,,,
+case 167,determinemodenoRow,Variant 6,6,,,,,-46.00,-46.00
+case 168,getlength3,Variant 2,2,,,34.44,34.44,,
+case 168,measure weight,Variant 2,2,525.00,525.00,,,,
+case 169,getlength2,Variant 1,1,,,-27.61,-27.61,,
+case 169,measure weight,Variant 1,1,83.00,83.00,,,,
+case 170,getlength3,Variant 53,53,,,2.00,2.00,,
+case 170,measure weight,Variant 53,53,3.00,3.00,,,,
+case 170,determinemode2,Variant 53,53,,,,,0.00,0.00
+case 170,getlength3,Variant 53,53,,,2.00,2.00,,
+case 171,getlength1,Variant 3,3,,,-94.90,-94.90,,
+case 171,measure weight,Variant 3,3,10.00,10.00,,,,
+case 171,determinemode3,Variant 3,3,,,,,0.00,0.00
+case 172,getlength1,Variant 9,9,,,0.00,0.00,,
+case 172,measure weight,Variant 9,9,-77.38,-77.38,,,,
+case 172,determinemodenoRow,Variant 9,9,,,,,0.00,0.00
+case 173,measure weight,Variant 16,16,614.00,614.00,,,,
+case 173,getlength1,Variant 16,16,,,0.00,0.00,,
+case 173,measure weight,Variant 16,16,614.00,614.00,,,,
+case 174,getlength2,Variant 17,17,,,1.00,1.00,,
+case 174,measure weight,Variant 17,17,7.00,7.00,,,,
+case 174,determinemode3,Variant 17,17,,,,,0.00,0.00
+case 174,getlength2,Variant 17,17,,,1.00,1.00,,
+case 175,getlength2,Variant 1,1,,,77.63,77.63,,
+case 175,measure weight,Variant 1,1,176.00,176.00,,,,
+case 176,getlength3,Variant 5,5,,,-58.12,-58.12,,
+case 176,measure weight,Variant 5,5,10.00,10.00,,,,
+case 176,determinemode2,Variant 5,5,,,,,0.00,0.00
+case 177,getlength3,Variant 6,6,,,45.94,45.94,,
+case 177,measure weight,Variant 6,6,5.00,5.00,,,,
+case 177,determinemodenoRow,Variant 6,6,,,,,0.00,0.00
+case 178,getlength2,Variant 14,14,,,1.00,1.00,,
+case 178,measure weight,Variant 14,14,388.00,388.00,,,,
+case 178,getlength2,Variant 14,14,,,1.00,1.00,,
+case 179,getlength2,Variant 1,1,,,55.25,55.25,,
+case 179,measure weight,Variant 1,1,579.00,579.00,,,,
+case 180,getlength3,Variant 2,2,,,2.00,2.00,,
+case 180,measure weight,Variant 2,2,428.89,428.89,,,,
+case 181,getlength1,Variant 4,4,,,20.08,20.08,,
+case 181,measure weight,Variant 4,4,103.00,103.00,,,,
+case 182,getlength2,Variant 54,54,,,1.00,1.00,,
+case 182,measure weight,Variant 54,54,3.00,3.00,,,,
+case 182,measure weight,Variant 54,54,3.00,3.00,,,,
+case 182,determinemode1,Variant 54,54,,,,,926.00,926.00
+case 183,getlength2,Variant 55,55,,,1.00,1.00,,
+case 183,measure weight,Variant 55,55,-49.29,-49.29,,,,
+case 183,determinemodenoRow,Variant 55,55,,,,,0.00,0.00
+case 183,getlength2,Variant 55,55,,,1.00,1.00,,
+case 184,getlength3,Variant 19,19,,,2.00,2.00,,
+case 184,getlength3,Variant 19,19,,,2.00,2.00,,
+case 184,measure weight,Variant 19,19,-71.32,-71.32,,,,
+case 184,determinemode3,Variant 19,19,,,,,765.00,765.00
+case 185,getlength1,Variant 56,56,,,0.00,0.00,,
+case 185,measure weight,Variant 56,56,6.00,6.00,,,,
+case 185,determinemode3,Variant 56,56,,,,,0.00,0.00
+case 185,getlength1,Variant 56,56,,,0.00,0.00,,
+case 186,getlength2,Variant 57,57,,,1.00,1.00,,
+case 186,measure weight,Variant 57,57,4.00,4.00,,,,
+case 186,determinemode1,Variant 57,57,,,,,0.00,0.00
+case 186,measure weight,Variant 57,57,4.00,4.00,,,,
+case 187,getlength2,Variant 7,7,,,1.00,1.00,,
+case 187,measure weight,Variant 7,7,3.00,3.00,,,,
+case 187,determinemodenoRow,Variant 7,7,,,,,81.00,81.00
+case 188,getlength3,Variant 5,5,,,-18.55,-18.55,,
+case 188,measure weight,Variant 5,5,6.00,6.00,,,,
+case 188,determinemode2,Variant 5,5,,,,,0.00,0.00
+case 189,getlength3,Variant 2,2,,,2.00,2.00,,
+case 189,measure weight,Variant 2,2,428.09,428.09,,,,
+case 190,determinemodenoRow,Variant 58,58,,,,,0.00,0.00
+case 190,getlength1,Variant 58,58,,,0.00,0.00,,
+case 190,measure weight,Variant 58,58,5.00,5.00,,,,
+case 190,determinemodenoRow,Variant 58,58,,,,,0.00,0.00
+case 191,getlength2,Variant 59,59,,,1.00,1.00,,
+case 191,measure weight,Variant 59,59,8.00,8.00,,,,
+case 191,getlength2,Variant 59,59,,,1.00,1.00,,
+case 191,determinemode3,Variant 59,59,,,,,0.00,0.00
+case 192,getlength3,Variant 30,30,,,2.00,2.00,,
+case 192,determinemode2,Variant 30,30,,,,,0.00,0.00
+case 192,measure weight,Variant 30,30,3.00,3.00,,,,
+case 192,determinemode2,Variant 30,30,,,,,0.00,0.00
+case 193,getlength3,Variant 6,6,,,2.00,2.00,,
+case 193,measure weight,Variant 6,6,3.00,3.00,,,,
+case 193,determinemodenoRow,Variant 6,6,,,,,14.00,14.00
+case 194,getlength3,Variant 13,13,,,2.00,2.00,,
+case 194,getlength3,Variant 13,13,,,2.00,2.00,,
+case 194,measure weight,Variant 13,13,591.00,591.00,,,,
+case 195,getlength1,Variant 3,3,,,59.26,59.26,,
+case 195,measure weight,Variant 3,3,10.00,10.00,,,,
+case 195,determinemode3,Variant 3,3,,,,,0.00,0.00
+case 196,measure weight,Variant 24,24,3.00,3.00,,,,
+case 196,getlength1,Variant 24,24,,,0.00,0.00,,
+case 196,measure weight,Variant 24,24,3.00,3.00,,,,
+case 196,determinemodenoRow,Variant 24,24,,,,,0.00,0.00
+case 197,getlength2,Variant 11,11,,,1.00,1.00,,
+case 197,measure weight,Variant 11,11,100.59,100.59,,,,
+case 197,determinemode1,Variant 11,11,,,,,0.00,0.00
+case 198,getlength2,Variant 10,10,,,1.00,1.00,,
+case 198,measure weight,Variant 10,10,25.88,25.88,,,,
+case 198,determinemode3,Variant 10,10,,,,,0.00,0.00
+case 199,getlength2,Variant 28,28,,,1.00,1.00,,
+case 199,determinemodenoRow,Variant 28,28,,,,,0.00,0.00
+case 199,measure weight,Variant 28,28,-21.07,-21.07,,,,
+case 199,determinemodenoRow,Variant 28,28,,,,,0.00,0.00
+case 200,getlength3,Variant 60,60,,,2.00,2.00,,
+case 200,getlength3,Variant 60,60,,,2.00,2.00,,
+case 200,measure weight,Variant 60,60,5.00,5.00,,,,
+case 200,determinemodenoRow,Variant 60,60,,,,,0.00,0.00
+case 201,getlength3,Variant 2,2,,,2.00,2.00,,
+case 201,measure weight,Variant 2,2,318.00,318.00,,,,
+case 202,getlength1,Variant 22,22,,,0.00,0.00,,
+case 202,measure weight,Variant 22,22,685.00,685.00,,,,
+case 202,measure weight,Variant 22,22,685.00,685.00,,,,
+case 203,getlength3,Variant 2,2,,,2.00,2.00,,
+case 203,measure weight,Variant 2,2,426.61,426.61,,,,
+case 204,getlength1,Variant 8,8,,,-89.86,-89.86,,
+case 204,measure weight,Variant 8,8,5.00,5.00,,,,
+case 204,determinemode1,Variant 8,8,,,,,588.00,588.00
+case 205,measure weight,Variant 61,61,7.00,7.00,,,,
+case 205,getlength1,Variant 61,61,,,0.00,0.00,,
+case 205,measure weight,Variant 61,61,7.00,7.00,,,,
+case 205,determinemode3,Variant 61,61,,,,,1018.00,1018.00
+case 206,getlength2,Variant 27,27,,,1.00,1.00,,
+case 206,measure weight,Variant 27,27,8.00,8.00,,,,
+case 206,measure weight,Variant 27,27,8.00,8.00,,,,
+case 206,determinemode3,Variant 27,27,,,,,376.00,376.00
+case 207,getlength2,Variant 1,1,,,-34.95,-34.95,,
+case 207,measure weight,Variant 1,1,715.00,715.00,,,,
+case 208,getlength3,Variant 5,5,,,2.00,2.00,,
+case 208,measure weight,Variant 5,5,9.00,9.00,,,,
+case 208,determinemode2,Variant 5,5,,,,,836.00,836.00
+case 209,getlength1,Variant 3,3,,,0.00,0.00,,
+case 209,measure weight,Variant 3,3,-63.28,-63.28,,,,
+case 209,determinemode3,Variant 3,3,,,,,0.00,0.00
+case 210,getlength3,Variant 30,30,,,2.00,2.00,,
+case 210,determinemode2,Variant 30,30,,,,,0.00,0.00
+case 210,measure weight,Variant 30,30,6.00,6.00,,,,
+case 210,determinemode2,Variant 30,30,,,,,0.00,0.00
+case 211,getlength3,Variant 6,6,,,-33.62,-33.62,,
+case 211,measure weight,Variant 6,6,5.00,5.00,,,,
+case 211,determinemodenoRow,Variant 6,6,,,,,0.00,0.00
+case 212,getlength3,Variant 2,2,,,2.00,2.00,,
+case 212,measure weight,Variant 2,2,436.39,436.39,,,,
+case 213,getlength2,Variant 7,7,,,-27.32,-27.32,,
+case 213,measure weight,Variant 7,7,5.00,5.00,,,,
+case 213,determinemodenoRow,Variant 7,7,,,,,0.00,0.00
+case 214,getlength2,Variant 1,1,,,1.00,1.00,,
+case 214,measure weight,Variant 1,1,166.56,166.56,,,,
+case 215,getlength3,Variant 12,12,,,-37.10,-37.10,,
+case 215,measure weight,Variant 12,12,8.00,8.00,,,,
+case 215,determinemode3,Variant 12,12,,,,,0.00,0.00
+case 216,getlength3,Variant 6,6,,,2.00,2.00,,
+case 216,measure weight,Variant 6,6,3.00,3.00,,,,
+case 216,determinemodenoRow,Variant 6,6,,,,,88.00,88.00
+case 217,getlength3,Variant 2,2,,,-11.63,-11.63,,
+case 217,measure weight,Variant 2,2,591.00,591.00,,,,
+case 218,getlength1,Variant 62,62,,,0.00,0.00,,
+case 218,getlength1,Variant 62,62,,,0.00,0.00,,
+case 218,measure weight,Variant 62,62,6.00,6.00,,,,
+case 218,determinemode1,Variant 62,62,,,,,40.00,40.00
+case 219,getlength1,Variant 3,3,,,0.00,0.00,,
+case 219,measure weight,Variant 3,3,76.43,76.43,,,,
+case 219,determinemode3,Variant 3,3,,,,,0.00,0.00
+case 220,getlength2,Variant 63,63,,,1.00,1.00,,
+case 220,measure weight,Variant 63,63,7.00,7.00,,,,
+case 220,determinemode3,Variant 63,63,,,,,0.00,0.00
+case 220,determinemode3,Variant 63,63,,,,,0.00,0.00
+case 221,getlength3,Variant 5,5,,,2.00,2.00,,
+case 221,measure weight,Variant 5,5,10.00,10.00,,,,
+case 221,determinemode2,Variant 5,5,,,,,-68.00,-68.00
+case 222,getlength3,Variant 6,6,,,-28.37,-28.37,,
+case 222,measure weight,Variant 6,6,5.00,5.00,,,,
+case 222,determinemodenoRow,Variant 6,6,,,,,0.00,0.00
+case 223,getlength3,Variant 15,15,,,-28.70,-28.70,,
+case 223,measure weight,Variant 15,15,911.57,911.57,,,,
+case 223,measure weight,Variant 15,15,911.57,911.57,,,,
+case 224,getlength3,Variant 2,2,,,2.00,2.00,,
+case 224,measure weight,Variant 2,2,453.91,453.91,,,,
+case 225,getlength1,Variant 9,9,,,-61.48,-61.48,,
+case 225,measure weight,Variant 9,9,4.00,4.00,,,,
+case 225,determinemodenoRow,Variant 9,9,,,,,0.00,0.00
+case 226,getlength1,Variant 4,4,,,5.23,5.23,,
+case 226,measure weight,Variant 4,4,103.00,103.00,,,,
+case 227,getlength3,Variant 5,5,,,2.00,2.00,,
+case 227,measure weight,Variant 5,5,9.00,9.00,,,,
+case 227,determinemode2,Variant 5,5,,,,,833.00,833.00
+case 228,getlength1,Variant 8,8,,,0.00,0.00,,
+case 228,measure weight,Variant 8,8,5.00,5.00,,,,
+case 228,determinemode1,Variant 8,8,,,,,-48.00,-48.00
+case 229,getlength2,Variant 11,11,,,-11.09,-11.09,,
+case 229,measure weight,Variant 11,11,67.78,67.78,,,,
+case 229,determinemode1,Variant 11,11,,,,,0.00,0.00
+case 230,getlength2,Variant 10,10,,,1.00,1.00,,
+case 230,measure weight,Variant 10,10,8.00,8.00,,,,
+case 230,determinemode3,Variant 10,10,,,,,-14.00,-14.00
+case 231,getlength2,Variant 7,7,,,3.68,3.68,,
+case 231,measure weight,Variant 7,7,3.00,3.00,,,,
+case 231,determinemodenoRow,Variant 7,7,,,,,0.00,0.00
+case 232,getlength2,Variant 14,14,,,1.00,1.00,,
+case 232,measure weight,Variant 14,14,175.00,175.00,,,,
+case 232,getlength2,Variant 14,14,,,1.00,1.00,,
+case 233,getlength3,Variant 6,6,,,-29.38,-29.38,,
+case 233,measure weight,Variant 6,6,5.00,5.00,,,,
+case 233,determinemodenoRow,Variant 6,6,,,,,0.00,0.00
+case 234,getlength1,Variant 9,9,,,100.51,100.51,,
+case 234,measure weight,Variant 9,9,5.00,5.00,,,,
+case 234,determinemodenoRow,Variant 9,9,,,,,0.00,0.00
+case 235,determinemode1,Variant 64,64,,,,,0.00,0.00
+case 235,getlength2,Variant 64,64,,,1.00,1.00,,
+case 235,measure weight,Variant 64,64,4.00,4.00,,,,
+case 235,determinemode1,Variant 64,64,,,,,0.00,0.00
+case 236,getlength2,Variant 17,17,,,7.52,7.52,,
+case 236,measure weight,Variant 17,17,8.00,8.00,,,,
+case 236,determinemode3,Variant 17,17,,,,,54.00,54.00
+case 236,getlength2,Variant 17,17,,,7.52,7.52,,
+case 237,getlength3,Variant 6,6,,,-28.91,-28.91,,
+case 237,measure weight,Variant 6,6,3.00,3.00,,,,
+case 237,determinemodenoRow,Variant 6,6,,,,,49.00,49.00
+case 238,getlength3,Variant 15,15,,,2.00,2.00,,
+case 238,measure weight,Variant 15,15,591.00,591.00,,,,
+case 238,measure weight,Variant 15,15,591.00,591.00,,,,
+case 239,getlength1,Variant 4,4,,,0.00,0.00,,
+case 239,measure weight,Variant 4,4,653.12,653.12,,,,
+case 240,getlength2,Variant 11,11,,,1.00,1.00,,
+case 240,measure weight,Variant 11,11,-63.01,-63.01,,,,
+case 240,determinemode1,Variant 11,11,,,,,10.00,10.00
+case 241,getlength2,Variant 65,65,,,1.00,1.00,,
+case 241,measure weight,Variant 65,65,5.00,5.00,,,,
+case 241,getlength2,Variant 65,65,,,1.00,1.00,,
+case 241,determinemodenoRow,Variant 65,65,,,,,0.00,0.00
+case 242,getlength3,Variant 20,20,,,2.00,2.00,,
+case 242,measure weight,Variant 20,20,5.00,5.00,,,,
+case 242,determinemodenoRow,Variant 20,20,,,,,0.00,0.00
+case 242,determinemodenoRow,Variant 20,20,,,,,0.00,0.00
+case 243,getlength1,Variant 4,4,,,-4.84,-4.84,,
+case 243,measure weight,Variant 4,4,209.00,209.00,,,,
+case 244,getlength3,Variant 2,2,,,2.00,2.00,,
+case 244,measure weight,Variant 2,2,520.82,520.82,,,,
+case 245,getlength2,Variant 10,10,,,67.69,67.69,,
+case 245,measure weight,Variant 10,10,8.00,8.00,,,,
+case 245,determinemode3,Variant 10,10,,,,,376.00,376.00
+case 246,getlength2,Variant 1,1,,,99.13,99.13,,
+case 246,measure weight,Variant 1,1,715.00,715.00,,,,
+case 247,getlength3,Variant 66,66,,,87.83,87.83,,
+case 247,measure weight,Variant 66,66,9.00,9.00,,,,
+case 247,determinemode2,Variant 66,66,,,,,852.00,852.00
+case 247,determinemode2,Variant 66,66,,,,,852.00,852.00
+case 248,determinemodenoRow,Variant 67,67,,,,,0.00,0.00
+case 248,getlength3,Variant 67,67,,,2.00,2.00,,
+case 248,measure weight,Variant 67,67,2.00,2.00,,,,
+case 248,determinemodenoRow,Variant 67,67,,,,,0.00,0.00
+case 249,getlength1,Variant 3,3,,,0.00,0.00,,
+case 249,measure weight,Variant 3,3,71.48,71.48,,,,
+case 249,determinemode3,Variant 3,3,,,,,0.00,0.00
+case 250,getlength1,Variant 4,4,,,-58.80,-58.80,,
+case 250,measure weight,Variant 4,4,677.00,677.00,,,,
+case 251,getlength2,Variant 1,1,,,1.00,1.00,,
+case 251,measure weight,Variant 1,1,273.80,273.80,,,,
+case 252,getlength3,Variant 68,68,,,2.00,2.00,,
+case 252,measure weight,Variant 68,68,7.00,7.00,,,,
+case 252,determinemode3,Variant 68,68,,,,,0.00,0.00
+case 252,determinemode3,Variant 68,68,,,,,0.00,0.00
+case 253,getlength1,Variant 3,3,,,0.00,0.00,,
+case 253,measure weight,Variant 3,3,8.00,8.00,,,,
+case 253,determinemode3,Variant 3,3,,,,,-77.00,-77.00
+case 254,measure weight,Variant 24,24,5.00,5.00,,,,
+case 254,getlength1,Variant 24,24,,,0.00,0.00,,
+case 254,measure weight,Variant 24,24,5.00,5.00,,,,
+case 254,determinemodenoRow,Variant 24,24,,,,,0.00,0.00
+case 255,getlength3,Variant 21,21,,,2.00,2.00,,
+case 255,measure weight,Variant 21,21,3.00,3.00,,,,
+case 255,measure weight,Variant 21,21,3.00,3.00,,,,
+case 255,determinemode2,Variant 21,21,,,,,0.00,0.00
+case 256,getlength3,Variant 12,12,,,2.00,2.00,,
+case 256,measure weight,Variant 12,12,93.61,93.61,,,,
+case 256,determinemode3,Variant 12,12,,,,,0.00,0.00
+case 257,getlength1,Variant 9,9,,,0.00,0.00,,
+case 257,measure weight,Variant 9,9,-48.01,-48.01,,,,
+case 257,determinemodenoRow,Variant 9,9,,,,,0.00,0.00
+case 258,getlength2,Variant 10,10,,,86.67,86.67,,
+case 258,measure weight,Variant 10,10,7.00,7.00,,,,
+case 258,determinemode3,Variant 10,10,,,,,0.00,0.00
+case 259,getlength2,Variant 7,7,,,1.00,1.00,,
+case 259,measure weight,Variant 7,7,5.00,5.00,,,,
+case 259,determinemodenoRow,Variant 7,7,,,,,-94.00,-94.00
+case 260,getlength2,Variant 1,1,,,1.00,1.00,,
+case 260,measure weight,Variant 1,1,139.98,139.98,,,,
+case 261,getlength3,Variant 21,21,,,2.00,2.00,,
+case 261,measure weight,Variant 21,21,10.00,10.00,,,,
+case 261,measure weight,Variant 21,21,10.00,10.00,,,,
+case 261,determinemode2,Variant 21,21,,,,,0.00,0.00
+case 262,getlength3,Variant 69,69,,,2.00,2.00,,
+case 262,measure weight,Variant 69,69,296.59,296.59,,,,
+case 262,getlength3,Variant 69,69,,,2.00,2.00,,
