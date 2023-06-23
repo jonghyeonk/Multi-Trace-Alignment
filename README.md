@@ -4,7 +4,7 @@
 
 1. 'prepare_bs_encoding.ipynb' 
 
-    This script shows the processes (i) to generate non-complying traces by modifying the original traces, (ii) to save ground truth of original traces before modification, (iii) to encode the prepared experimental datasets.
+    This script shows the processes (i) to generate non-complying traces by modifying the original traces, (ii) to save ground truth of original traces before modification, and (iii) to encode the prepared experimental datasets.
 
 2. Folder 'non_schatistic' includes datasets in non-stochastic setting and experimental codes
 
